@@ -40,9 +40,9 @@ The organization faces significant risks due to weak access controls, lack of en
 ## Compliance Checklist Highlights
 
 # Does Botium Toys currently have this control in place?
-- [] Least privilege
-- [] Disater Recovery
-- [] Password policies
+- [ ] Least privilege
+- [ ] Disater Recovery
+- [ ] Password policies
   
 # Does Botium Toys currently adhere to this compliance best practice?
 
@@ -58,10 +58,18 @@ General Data Protection Regulation (GDPR)
 
 System and Organizations Controls (SOC type 1, SOC type 2) 
 - [x] User access policies are established.
-- [] Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+- [ ] Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+
+---
+  
+- `[x]` = For No 
+- `[ ]` = For Yes
+---
+## Full Reports
+
+- [Download Risk Assessment Report (DOCX)](risk_assessment.docx)
+- [Download Compliance Checklist (DOCX)](compliance_checklist.docx)
 
 ---
 
-**Legend:**  
-- `[x]` = For No 
-- `[ ]` = For Yes
+**For complete details, please refer to the attached Word documents.**
