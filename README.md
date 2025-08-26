@@ -36,3 +36,32 @@ The main goal is to **evaluate existing assets, controls, and compliance** to id
 
 **8/10 (High)**  
 The organization faces significant risks due to weak access controls, lack of encryption, missing recovery plans, and non-compliance with regulatory standards.
+
+## Compliance Checklist Highlights
+
+# Does Botium Toys currently have this control in place?
+- [] Least privilege
+- [] Disater Recovery
+- [] Password policies
+  
+# Does Botium Toys currently adhere to this compliance best practice?
+
+Compliance checklist
+
+Payment Card Industry Data Security Standard (PCI DSS)
+- [x] Only authorized users have access to customers’ credit card information. 
+- [x] Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
+
+General Data Protection Regulation (GDPR)
+- [x] E.U. customers’ data is kept private/secured.
+- [x] There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
+
+System and Organizations Controls (SOC type 1, SOC type 2) 
+- [x] User access policies are established.
+- [] Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+
+---
+
+**Legend:**  
+- `[x]` = For No 
+- `[ ]` = For Yes
