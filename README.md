@@ -20,7 +20,6 @@ The main goal is to **evaluate existing assets, controls, and compliance** to id
 - Overly broad employee access to customer PII/SPII and cardholder data
 - Weak password policies and no centralized password management
 - Absence of intrusion detection systems (IDS)
-- No disaster recovery or backup plans
 - Unclear maintenance schedule for legacy systems
 
 ### Existing Controls
@@ -30,7 +29,6 @@ The main goal is to **evaluate existing assets, controls, and compliance** to id
 - Availability and integrity safeguards
 - EU customer breach notification plan
 - Documented privacy policies and procedures
-- Physical security measures (locks, CCTV, fire detection/prevention)
 
 ### Risk Score
 
@@ -39,12 +37,12 @@ The organization faces significant risks due to weak access controls, lack of en
 
 ## Compliance Checklist Highlights
 
-# Does Botium Toys currently have this control in place?
+### Does Botium Toys currently have this control in place?
 - [ ] Least privilege
 - [ ] Disater Recovery
 - [ ] Password policies
   
-# Does Botium Toys currently adhere to this compliance best practice?
+### Does Botium Toys currently adhere to this compliance best practice?
 
 Compliance checklist
 
