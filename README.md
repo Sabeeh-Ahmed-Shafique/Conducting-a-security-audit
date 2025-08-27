@@ -66,7 +66,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 ## Full Reports
 
 - [Download Risk Assessment Report (DOCX)](https://raw.githubusercontent.com/Sabeeh-Ahmed-Shafique/Conducting-a-security-audit/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.docx)
-- [Download Compliance Checklist (DOCX)](https://raw.githubusercontent.com/Sabeeh-Ahmed-Shafique/Conducting-a-security-audit/main/Controls%20and%20compliance%20checklist.docx)
+- [Download Compliance Checklist (DOCX)]()
 
 ---
 
